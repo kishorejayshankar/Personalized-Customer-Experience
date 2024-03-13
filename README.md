@@ -15,10 +15,12 @@ This Gen-AI project proposes a solution using Generative Adversarial Networks (G
 Data Generation :
 * Generate synthetic customer data using the provided generate customer data function.
 * Save the generated data to a CSV file for training the GAN model.
+
 GAN Training :
 * Load the customer data from the CSV file.
 * Preprocess the dataset, including normalization and feature engineering if necessary.
 * Build and train the GAN model using the preprocessed customer data.
+
 Recommendation System :
 *Generate synthetic profiles using the trained GAN model.
 *Cluster the synthetic profiles to identify customer segments.
