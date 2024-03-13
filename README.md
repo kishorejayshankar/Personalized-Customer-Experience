@@ -22,6 +22,6 @@ GAN Training :
 * Build and train the GAN model using the preprocessed customer data.
 
 Recommendation System :
-*Generate synthetic profiles using the trained GAN model.
-*Cluster the synthetic profiles to identify customer segments.
-*Implement recommendation algorithms to provide personalized product recommendations for each user.
+* Generate synthetic profiles using the trained GAN model.
+* Cluster the synthetic profiles to identify customer segments.
+* Implement recommendation algorithms to provide personalized product recommendations for each user.
